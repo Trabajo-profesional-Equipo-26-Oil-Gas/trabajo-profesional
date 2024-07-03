@@ -1,0 +1,1 @@
+{"changepoint_prior_scale": 0.23519944972789186, "changepoint_range": 0.8145668760277527, "seasonality_mode": "multiplicative", "seasonality_prior_scale": 0.01327829902139415, "holidays_prior_scale": 1.5729156060461904, "mean_prod_pet_mode": "additive", "yearly_seasonality": "auto", "mean_prod_pet_prior_scale": 10}
